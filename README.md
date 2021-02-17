@@ -10,6 +10,8 @@ Unity packaged games. It's main use is when tied with Harmony 2.0 to make
 drastic changes to game code. SlimVML is embed with Unity Doorstop 3.0.
 InSlimVML is specifically designed with Valheim in mind.
 
+# HOW TO INSTALL: https://youtu.be/HPFEOD59vRU
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 PACKAGED LIBRARIES
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
