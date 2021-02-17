@@ -1,4 +1,4 @@
-![Screenshot](titleimg.png)
+![Screenshot](banner.png)
 
 # InSlimVML v0.1.0
 SlimVML Author ThePapanoob
