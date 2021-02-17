@@ -13,6 +13,7 @@ InSlimVML is specifically designed with Valheim in mind.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 # HOW TO INSTALL: https://youtu.be/HPFEOD59vRU
+NOTE: Downloading from GIT and not Nexus will result in two layers of .zips, you will have to extract then extract the other file within
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 PACKAGED LIBRARIES
