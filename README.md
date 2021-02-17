@@ -1,7 +1,7 @@
-##### InSlimVML v0.1.0
-#### SlimVML Author ThePapanoob
-### InSlim Fork By PJninja
-## Using Unity Doorstop Embedding
+# InSlimVML v0.1.0
+# SlimVML Author ThePapanoob
+# InSlim Fork By PJninja
+# Using Unity Doorstop Embedding
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
