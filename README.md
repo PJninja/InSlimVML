@@ -19,6 +19,12 @@ NOTE: Downloading from GIT will download extra files: banner.png & README.md - t
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+# Working With BepInEx Tutorials:
+If you currently have BepInEx and want InSlim: https://youtu.be/gBbtVRAxztM
+If you currently have InSlim (OR NEITHER) and want both: https://youtu.be/81j-PwQG7YA
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 PACKAGED LIBRARIES
 Harmony v2.0.4 by pardeike
 Vale-UI-Library v0.1.0 by PJninja
