@@ -27,9 +27,9 @@ If you currently have InSlim (OR NEITHER) and want both: https://youtu.be/81j-Pw
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 PACKAGED LIBRARIES
-Harmony v2.0.4 by pardeike
-Vale-UI-Library v0.1.0 by PJninja
-Vale-Valheim-Library v0.1.1 by PJninja
+* Harmony v2.0.4 by pardeike
+* Vale-UI-Library v0.1.0 by PJninja
+* SlimAssist v0.0.1 by PJninja
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
