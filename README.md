@@ -21,6 +21,7 @@ NOTE: Downloading from GIT will download extra files: banner.png & README.md - t
 
 # Working With BepInEx Tutorials:
 If you currently have BepInEx and want InSlim: https://youtu.be/gBbtVRAxztM
+
 If you currently have InSlim (OR NEITHER) and want both: https://youtu.be/81j-PwQG7YA
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
