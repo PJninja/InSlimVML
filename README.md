@@ -1,10 +1,10 @@
 ![Screenshot](banner.png)
 
 # InSlimVML v0.2.0
-SlimVML Author ThePapanoob
-InSlim Fork By PJninja
-Using Unity Doorstop Embedding
-Supports BepInEx Compatibility
+* SlimVML Author ThePapanoob
+* InSlim Fork By PJninja
+* Using Unity Doorstop Embedding
+* Supports BepInEx Compatibility
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
