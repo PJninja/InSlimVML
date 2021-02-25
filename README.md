@@ -27,6 +27,11 @@ If you currently have InSlim (OR NEITHER) and want both: https://youtu.be/81j-Pw
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+# CRASHING ON LAUNCH?
+https://www.nexusmods.com/valheim/mods/21/?tab=forum&topic_id=9696033&BH=1
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 PACKAGED LIBRARIES
 * Harmony v2.0.4 by pardeike
 * Vale-UI-Library v0.1.0 by PJninja
