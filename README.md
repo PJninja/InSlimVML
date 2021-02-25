@@ -34,7 +34,7 @@ https://www.nexusmods.com/valheim/mods/21/?tab=forum&topic_id=9696033&BH=1
 
 PACKAGED LIBRARIES
 * Harmony v2.0.4 by pardeike
-* SlimAssist v0.0.2 by PJninja
+* SlimAssist v0.2.0 by PJninja
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -45,7 +45,7 @@ Discord Help Link : https://discord.gg/ZW8raU68Em
 **CHANGELOG**
 
 * Feb 25 2021 - v0.2.2
-	* Added SlimSupport v0.0.2
+	* Added SlimSupport v0.2.0
 	* Removed Not Needed Assemblies
 
 * Feb 25 2021 - v0.2.1 - EA TEST ONLY
