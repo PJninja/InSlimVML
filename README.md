@@ -1,6 +1,6 @@
 ![Screenshot](banner.png)
 
-# InSlimVML v0.2.0
+# InSlimVML v0.2.2
 * SlimVML Author ThePapanoob
 * InSlim Fork By PJninja
 * Using Unity Doorstop Embedding
