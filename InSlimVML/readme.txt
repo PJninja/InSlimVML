@@ -22,6 +22,8 @@ CHANGELOG
 Feb 25 2021 - v0.2.2
 	+ Added SlimSupport v0.0.2
 	+ Removed Not Needed Assemblies
+
+Feb 25 2021 - v0.2.1 - EA TEST ONLY
 	+ Added Flexible Init Hooks
 
 Feb 22 2021 - v0.2.0
