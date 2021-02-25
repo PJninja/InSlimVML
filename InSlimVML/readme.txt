@@ -1,4 +1,4 @@
-##### InSlimVML v0.2.0
+##### InSlimVML v0.2.2
 #### SlimVML Author ThePapanoob
 ### InSlim Fork By PJninja
 ## Using Unity Doorstop Embedding
@@ -15,11 +15,15 @@ InSlimVML is specifically designed with Valheim, BepInEx, and Nexus Vortex in mi
 PACKAGED LIBRARIES
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Harmony v2.0.4 by pardeike
-Vale-UI-Library v0.2.0 by PJninja
-SlimSupport v0.0.1 by PJninja - File Checker and Menu Tweaks Mod
+SlimSupport v0.0.2 by PJninja - File Checker and Menu Tweaks Mod
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 CHANGELOG
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Feb 25 2021 - v0.2.2
+	+ Added SlimSupport v0.0.2
+	+ Removed Not Needed Assemblies
+	+ Added Flexible Init Hooks
+
 Feb 22 2021 - v0.2.0
 	+ Added Compatibility with BepInEx
 	+ Added SlimSupport.dll pre-installed
