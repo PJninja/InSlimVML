@@ -15,12 +15,12 @@ InSlimVML is specifically designed with Valheim, BepInEx, and Nexus Vortex in mi
 PACKAGED LIBRARIES
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Harmony v2.0.4 by pardeike
-SlimSupport v0.0.2 by PJninja - File Checker and Menu Tweaks Mod
+SlimSupport v0.2.0 by PJninja - File Checker and Menu Tweaks Mod
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 CHANGELOG
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Feb 25 2021 - v0.2.2
-	+ Added SlimSupport v0.0.2
+	+ Added SlimSupport v0.2.0
 	+ Removed Not Needed Assemblies
 
 Feb 25 2021 - v0.2.1 - EA TEST ONLY
