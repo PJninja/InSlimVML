@@ -42,19 +42,22 @@ PACKAGED LIBRARIES
 Discord Help Link : https://discord.gg/ZW8raU68Em
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 **CHANGELOG**
 
-Feb 25 2021 - v0.2.2
-	+ Added SlimSupport v0.0.2
-	+ Removed Not Needed Assemblies
-	+ Added Flexible Init Hooks
+* Feb 25 2021 - v0.2.2
+	* Added SlimSupport v0.0.2
+	* Removed Not Needed Assemblies
 
-Feb 22 2021 - v0.2.0
-	+ Added Compatibility with BepInEx
-	+ Added SlimSupport.dll pre-installed
-	+ Updated Core Loop to allow more systems to use
-	+ Updated Core Loop to allow safer .dll handling
+* Feb 25 2021 - v0.2.1 - EA TEST ONLY
+	* Added Flexible Init Hooks
 
-Feb 17 2021 - v0.1.0
-	+ Inital Branch Off From SlimVML
-	+ InSlimVML Core Edits and Build
+* Feb 22 2021 - v0.2.0
+	* Added Compatibility with BepInEx
+	* Added SlimSupport.dll pre-installed
+	* Updated Core Loop to allow more systems to use
+	* Updated Core Loop to allow safer .dll handling
+
+* Feb 17 2021 - v0.1.0
+	* Inital Branch Off From SlimVML
+	* InSlimVML Core Edits and Build
