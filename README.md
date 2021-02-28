@@ -1,6 +1,6 @@
 ![Screenshot](banner.png)
 
-# InSlimVML v0.2.2
+# InSlimVML v0.2.3
 * SlimVML Author ThePapanoob
 * InSlim Fork By PJninja
 * Using Unity Doorstop Embedding
@@ -34,7 +34,7 @@ https://www.nexusmods.com/valheim/mods/21/?tab=forum&topic_id=9696033&BH=1
 
 PACKAGED LIBRARIES
 * Harmony v2.0.4 by pardeike
-* SlimAssist v0.2.0 by PJninja
+* SlimAssist v0.3.0 by PJninja
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -43,6 +43,14 @@ Discord Help Link : https://discord.gg/ZW8raU68Em
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 **CHANGELOG**
+
+* Feb 27, 2021 - v0.2.3
+	* Added foundation for future updates
+	* Added BepInEx mod loading precheck
+	* Fixed crash with some mods
+	* Updated SlimSupport to v0.3.0
+		* Checks for Update
+		* Pulls InSlim Version From .dll
 
 * Feb 25 2021 - v0.2.2
 	* Added SlimSupport v0.2.0
